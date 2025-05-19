@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Registro</string>
+    <string name="title_registros">Registros de Medición</string>
+    <string name="title_nuevo_registro">Nuevo Registro</string>
+    <string name="tipo_gasto">Tipo de Gasto</string>
+    <string name="agua">Agua</string>
+    <string name="luz">Luz</string>
+    <string name="gas">Gas</string>
+    <string name="valor_medidor">Valor del Medidor</string>
+    <string name="fecha">Fecha</string>
+    <string name="guardar">Guardar</string>
+    <string name="nuevo">Nuevo</string>
+    <string name="no_hay_registros">No hay registros aún.</string>
+</resources>

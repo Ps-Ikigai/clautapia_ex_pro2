@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Registry</string>
+    <string name="title_registros">Measurement Records</string>
+    <string name="title_nuevo_registro">New Record</string>
+    <string name="tipo_gasto">Expense Type</string>
+    <string name="agua">Water</string>
+    <string name="luz">Electricity</string>
+    <string name="gas">Gas</string>
+    <string name="valor_medidor">Meter Value</string>
+    <string name="fecha">Date</string>
+    <string name="guardar">Save</string>
+    <string name="nuevo">New</string>
+    <string name="no_hay_registros">No records yet.</string>
+</resources>
